@@ -1,0 +1,18 @@
+# Environnement virtuel
+app/ai_env/
+
+# Données brutes
+data/raw/fer2013.csv
+data/raw/archive.zip
+
+# Données prétraitées
+data/processed/*.pkl
+
+# Modèles
+models/*.h5
+models/*.keras
+
+# Fichiers système
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
